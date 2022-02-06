@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "e/izchtCxLsPHXXI/3ITP7rBoQqLmasfWohO61d9qfJx0zT5UzPjlYdVsTb+SXXL7ct3egQ8JjlZmTlx29bUwg==",
+  "success": true,
+  "projectFilePath": "D:\\.Net\\C#\\CabInvoiceGenerator\\CabInvoiceGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pratik suryawanshi\\.nuget\\packages\\microsoft.visualstudio.unittesting\\11.0.50727.1\\microsoft.visualstudio.unittesting.11.0.50727.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.VisualStudio.UnitTesting 11.0.50727.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.VisualStudio.UnitTesting",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

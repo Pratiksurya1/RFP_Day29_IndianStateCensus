@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a135a69a-276c-45a4-9d28-948ccd111e39": {
+      "ProjectGuid": "a135a69a-276c-45a4-9d28-948ccd111e39",
+      "DisplayName": "CabInvoiceGeneratorUnitTest",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
